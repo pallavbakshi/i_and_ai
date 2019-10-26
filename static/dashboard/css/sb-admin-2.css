@@ -2255,7 +2255,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4e73df;
+  background-color: #FF73df;
   border-color: #4e73df;
 }
 
@@ -10584,7 +10584,7 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("https://source.unsplash.com/K4mSJ7kc0As/600x800");
+  background: url("https://unsplash.com/photos/_kdTyfnUFAc/600X800");
   background-position: center;
   background-size: cover;
 }
